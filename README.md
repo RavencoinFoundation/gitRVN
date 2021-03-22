@@ -14,8 +14,7 @@ Further development could include:
 * Status updates for open, in-progress, completed, paid.
 * API for querying the open funded issues and their status
 
-## Projects and Issues with Funding 
-## https://ravencoin.foundation/proposals/
+## Projects and Issues with Funding - https://ravencoin.foundation/proposals/
 
 
 Adding to issue comment:
