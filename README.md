@@ -14,10 +14,14 @@ Further development could include:
 * Status updates for open, in-progress, completed, paid.
 * API for querying the open funded issues and their status
 
+## Projects and Issues with Funding 
+## https://ravencoin.foundation/proposals/
+
 
 Adding to issue comment:
 ```
 amount=USD$2000.00
 paid_in=RVN
 status=open
+info=https://github.com/RavencoinFoundation/gitRVN
 ```
