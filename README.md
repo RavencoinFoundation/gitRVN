@@ -14,7 +14,7 @@ Further development could include:
 * Status updates for open, in-progress, completed, paid.
 * API for querying the open funded issues and their status
 
-If you, as a developer, are working on any of these issues or projects, please e-mail tron@ravencoin.foundation so the status can be changed to in-progress so we can avoid race-conditions, wasted efforst, and hurt feelings if two developers tackle the same code.  Better automation will be created if these notifications become too much to manage manually.
+If you, as a developer, are working on any of these issues or projects, please e-mail tron@ravencoin.foundation so the status can be changed to in-progress so we can avoid race-conditions, wasted efforts if two developers tackle the same code.  Better automation will be created if these notifications become too much to manage manually.
 
 ## Projects and Issues with Funding - https://ravencoin.foundation/proposals/
 
